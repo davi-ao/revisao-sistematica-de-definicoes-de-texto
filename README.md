@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/792497748.svg)](https://zenodo.org/doi/10.5281/zenodo.11075343)
+
 # Revisão Sistemática das Definições e Caracterizações de Texto
 
 **Autores:** Davi Alves Oliveira, Lêda Maria Braga Tomitch and Hernane Borges de Barros Pereira
