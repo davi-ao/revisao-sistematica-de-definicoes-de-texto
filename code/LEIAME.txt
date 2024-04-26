@@ -1,10 +1,10 @@
-Revisão Sistemática das Definições e Caracterizações de Texto
+Revisão Sistemática de Definições e Caracterizações de Texto
 
 Autores: Davi Alves Oliveira, Lêda Maria Braga Tomitch and Hernane Borges de 
 Barros Pereira
 
 Este script foi desenvolvido e utilizado no estudo reportado no artigo "Revisão 
-Sistemática das Definições e Caracterizações de Texto", submetido à revista 
+Sistemática de Definições e Caracterizações de Texto", submetido à revista 
 Linguagem em (Dis)curso em 2024. O resumo e as palavras-chave do artigo podem 
 ser encontrado abaixo. O script processa dados resultantes de uma revisão 
 sistemática que resultou na seleção final de 48 artigos. O processamento inclui 
